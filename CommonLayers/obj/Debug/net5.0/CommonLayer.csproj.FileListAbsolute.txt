@@ -1,0 +1,12 @@
+C:\Users\visha\source\repos\CRUD\ToDo List ( .Net Core + MongoDB )\ToDoListBackEnd\CommonLayers\bin\Debug\net5.0\CommonLayer.deps.json
+C:\Users\visha\source\repos\CRUD\ToDo List ( .Net Core + MongoDB )\ToDoListBackEnd\CommonLayers\bin\Debug\net5.0\CommonLayer.dll
+C:\Users\visha\source\repos\CRUD\ToDo List ( .Net Core + MongoDB )\ToDoListBackEnd\CommonLayers\bin\Debug\net5.0\ref\CommonLayer.dll
+C:\Users\visha\source\repos\CRUD\ToDo List ( .Net Core + MongoDB )\ToDoListBackEnd\CommonLayers\bin\Debug\net5.0\CommonLayer.pdb
+C:\Users\visha\source\repos\CRUD\ToDo List ( .Net Core + MongoDB )\ToDoListBackEnd\CommonLayers\obj\Debug\net5.0\CommonLayer.csproj.AssemblyReference.cache
+C:\Users\visha\source\repos\CRUD\ToDo List ( .Net Core + MongoDB )\ToDoListBackEnd\CommonLayers\obj\Debug\net5.0\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\source\repos\CRUD\ToDo List ( .Net Core + MongoDB )\ToDoListBackEnd\CommonLayers\obj\Debug\net5.0\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\visha\source\repos\CRUD\ToDo List ( .Net Core + MongoDB )\ToDoListBackEnd\CommonLayers\obj\Debug\net5.0\CommonLayer.AssemblyInfo.cs
+C:\Users\visha\source\repos\CRUD\ToDo List ( .Net Core + MongoDB )\ToDoListBackEnd\CommonLayers\obj\Debug\net5.0\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\visha\source\repos\CRUD\ToDo List ( .Net Core + MongoDB )\ToDoListBackEnd\CommonLayers\obj\Debug\net5.0\CommonLayer.dll
+C:\Users\visha\source\repos\CRUD\ToDo List ( .Net Core + MongoDB )\ToDoListBackEnd\CommonLayers\obj\Debug\net5.0\ref\CommonLayer.dll
+C:\Users\visha\source\repos\CRUD\ToDo List ( .Net Core + MongoDB )\ToDoListBackEnd\CommonLayers\obj\Debug\net5.0\CommonLayer.pdb
